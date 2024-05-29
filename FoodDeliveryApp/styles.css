@@ -10,3 +10,7 @@ header img.imgHeader{
     width:100%;
     height: 190px;
 }
+
+.textToLeft{
+    text-align: right;
+}
